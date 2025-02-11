@@ -1,4 +1,4 @@
-# Strapi 5 deployment to VM (CLI and Docker)
+# Strapi 5 Deployment to VM (CLI and Docker)
 
 ## 1. Install using CLI
 ### 1.1 Setup
