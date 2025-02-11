@@ -1,4 +1,4 @@
-# Strapi 5 Deployment to VM (CLI and Docker)
+# Strapi 5 Deployment to Debian 12 VM (CLI Installation)
 
 ## 1. Install using CLI
 ### 1.1 Setup
@@ -36,5 +36,3 @@
     ```
     NODE_ENV=production npm run start
     ```
-
-## 2. Run Docker
